@@ -20,7 +20,7 @@ A lot of my work involves understanding existing systems at the lower level, fro
 
 Much of my more substantial work currently lives in **private repositories** due to sensitive information, so my public repository history does not represent the full scope of my projects or development activity.
 
-### Areas I work in
+### Areas I mostly work in
 
 * Reverse engineering & binary analysis
 * C / C++ systems programming
@@ -81,6 +81,6 @@ agentic development tooling
 
 <div align="center">
 
-`understand it → break it down → build something with it`
+`understand it -> break it down -> build something with it`
 
 </div>
