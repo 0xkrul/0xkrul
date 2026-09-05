@@ -6,8 +6,7 @@
 
 **I learn by shipping.**
 
-Building low-level tooling, backend systems, automation, and things that probably weren't meant to be 
-
+Building low-level tooling, backend systems, automation, and letting my curiosity drive my learning.
 </div>
 
 ---
