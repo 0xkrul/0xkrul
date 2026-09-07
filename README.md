@@ -2,12 +2,9 @@
 
 # 0xkrul
 
-### Software Dev · Reverse Eng · Systems & Automation
+### Software Dev / Reverse Eng / Systems & Automation
 
 **I learn by shipping.**
-
-Building low-level tooling, backend systems, automation, and letting my curiosity drive my learning.
-</div>
 
 ---
 
