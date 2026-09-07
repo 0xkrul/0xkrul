@@ -8,6 +8,8 @@
 
 ---
 
+</div>
+
 ### About
 
 Currently a software dev with a pretty strong interest in **reverse engineering, systems programming, backend development, and automation**.
