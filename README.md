@@ -2,17 +2,11 @@
 
 # 0xkrul
 
-**I learn by shipping.**
-
----
-
 </div>
 
 ### About
 
 Currently a software dev with a pretty strong interest in **reverse engineering, systems programming, backend development, and automation**.
-
-A lot of my work involves understanding existing systems at the lower level, from native binaries and memory layouts to network protocols and application internals, then building tools around what I learn.
 
 ### Technologies
 
